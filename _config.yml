@@ -3,12 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-author: John Doe
-language:
-timezone:
+title: Haveyallen's bog
+subtitle: the best yet to come
+description: funny,curious,reading
+author: Harvey Allen
+avatar: http://p5ohkkfrz.bkt.clouddn.com/sneaker%20socks%2002.jpg
+language: zh-Hans
+timezone: Asia/Shanghai
+
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
